@@ -1,0 +1,4 @@
+require 'livestatus-client/version'
+require 'livestatus-client'
+
+LivestatusClient.new.run
