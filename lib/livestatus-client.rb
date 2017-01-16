@@ -2,7 +2,6 @@ require 'livestatus-client/version'
 require 'trollop'
 require 'yaml'
 require 'socket'
-require 'byebug'
 require 'json'
 
 class LivestatusClient
